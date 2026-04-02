@@ -8,7 +8,7 @@ Built using **HTML, Tailwind CSS, DaisyUI, and Vanilla JavaScript**, the project
 
 ## 🔗 Live Demo
 
-👉 https://shafikulnayem10.github.io/Payoo-Digital-Payment-Web-App/
+👉 https://payo0-web-app.netlify.app/
 
 ### 🔑 Demo Credentials
 
